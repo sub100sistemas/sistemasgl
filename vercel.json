@@ -2,11 +2,14 @@
     "version": 2,
     "builds": [
       {
-        "src": "nuxt.config.js",
-        "use": "@vercel/nuxt"
+        "src": "package.json",
+        "use": "@vercel/node"
       }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/dist/$1" }
+      {
+        "src": "/(.*)",
+        "dest": "/dist/$1"
+      }
     ]
   }

@@ -4,8 +4,8 @@ const webpack = require('webpack')
 
 export default {
     buildDir: 'dist',
-    
-    //target: 'static',
+
+    target: 'static',
     ssr: true,
 
     generate: {
