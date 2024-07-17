@@ -186,29 +186,24 @@
         }
     }
     .title {
+        font-size: 34px;
+        margin: 0px;
+        color: $secondary;
         &.fz-48{
             font-size: 48px;
-            // Responsive
             @media #{$extra-small-mobile}{
                 font-size: 36px;
             }
         }
-        font-size: 34px;
-        margin: 0;
-        color: $secondary;
         &.fz-20{
             font-size: 20px;
-            // Responsive
             @media #{$extra-small-mobile}{
                 font-size: 16px;
             }
         }
-
         &.fz-16{
             font-size: 16px;
         }
-
-
         & span {
             font-weight: 400;
             color: $primary;
