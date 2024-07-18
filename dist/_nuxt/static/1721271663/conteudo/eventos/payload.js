@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/conteudo/eventos", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

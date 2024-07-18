@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/fale-conosco", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,91 @@
+exports.ids = [48];
+exports.modules = {
+
+/***/ 163:
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(209);
+if(content.__esModule) content = content.default;
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add CSS to SSR context
+var add = __webpack_require__(7).default
+module.exports.__inject__ = function (context) {
+  add("d94e9a9e", content, true, context)
+};
+
+/***/ }),
+
+/***/ 208:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AboutSetup_BK_vue_vue_type_style_index_0_id_5cb2a24e_prod_lang_scss_scoped_true__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(163);
+/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AboutSetup_BK_vue_vue_type_style_index_0_id_5cb2a24e_prod_lang_scss_scoped_true__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AboutSetup_BK_vue_vue_type_style_index_0_id_5cb2a24e_prod_lang_scss_scoped_true__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AboutSetup_BK_vue_vue_type_style_index_0_id_5cb2a24e_prod_lang_scss_scoped_true__WEBPACK_IMPORTED_MODULE_0__) if(["default"].indexOf(__WEBPACK_IMPORT_KEY__) < 0) (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_dist_cjs_js_ref_7_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_7_oneOf_1_3_node_modules_sass_resources_loader_lib_loader_js_ref_7_oneOf_1_4_node_modules_nuxt_components_dist_loader_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AboutSetup_BK_vue_vue_type_style_index_0_id_5cb2a24e_prod_lang_scss_scoped_true__WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));
+
+
+/***/ }),
+
+/***/ 209:
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(6);
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(function(i){return i[1]});
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".table-striped tbody tr[data-v-5cb2a24e]:nth-of-type(odd){background-color:rgba(0,0,0,.01)}", ""]);
+// Exports
+___CSS_LOADER_EXPORT___.locals = {};
+module.exports = ___CSS_LOADER_EXPORT___;
+
+
+/***/ }),
+
+/***/ 286:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/@nuxt/components/dist/loader.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./components/sub100/contents/AboutSetup_BK.vue?vue&type=template&id=5cb2a24e&scoped=true
+var render=function render(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"plan-section pb-5 pt-5"},[_vm._ssrNode("<div class=\"container\" data-v-5cb2a24e><div class=\"row align-items-center\" data-v-5cb2a24e><div class=\"col order-2\" data-v-5cb2a24e><div class=\"about-content max-w-100 text-center\" data-v-5cb2a24e><h1 class=\"title fz-30 mb-3 mt-4\" data-v-5cb2a24e>Sobre o setup</h1> <p class=\"fz-22 mb-5\" data-v-5cb2a24e>\n                        Feitos sob medida para atender todos os setores de loteadora e Incorporadoras\n                    </p></div></div></div> <table class=\"membership-price-table table table-striped table-bordered d-none d-md-table\" data-v-5cb2a24e><thead data-v-5cb2a24e><tr data-v-5cb2a24e><th data-v-5cb2a24e></th> <th data-v-5cb2a24e><h4 class=\"price mb-0\" data-v-5cb2a24e>R$ 750 <span data-v-5cb2a24e>/mês</span></h4> <div class=\"title\" data-v-5cb2a24e>Paraná</div> <div class=\"desc\" data-v-5cb2a24e>Sistema de Gestão de Loteamentos SGL</div></th> <th data-v-5cb2a24e><h4 class=\"price mb-0\" data-v-5cb2a24e>R$ 1.000 <span data-v-5cb2a24e>/mês</span></h4> <div class=\"title\" data-v-5cb2a24e>Minas Gerais</div> <div class=\"desc\" data-v-5cb2a24e>Sistema de Gestão de Loteamentos SGL</div></th> <th data-v-5cb2a24e><h4 class=\"price mb-0\" data-v-5cb2a24e> Consulte </h4> <div class=\"title\" data-v-5cb2a24e>Mato Grosso</div> <div class=\"desc\" data-v-5cb2a24e>Sistema de Gestão de Loteamentos SGL</div></th></tr></thead> <tbody data-v-5cb2a24e><tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Licença</td> <td data-v-5cb2a24e>2</td> <td data-v-5cb2a24e>10</td> <td data-v-5cb2a24e>Sem limite</td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Empreendimento</td> <td data-v-5cb2a24e>1</td> <td data-v-5cb2a24e>2 a 4</td> <td data-v-5cb2a24e>6 ou mais</td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Clientes</td> <td data-v-5cb2a24e>300</td> <td data-v-5cb2a24e>1.000</td> <td data-v-5cb2a24e>consulte</td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Nuvem</td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/controle-de-atendimentos/\" data-v-5cb2a24e>Controle de atendimentos</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/simulador-de-vendas/\" data-v-5cb2a24e>Simulador de vendas</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/mapa-interativo/\" data-v-5cb2a24e>Mapa interativo</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/administrativo/\" data-v-5cb2a24e>Administrativo</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/financeiro/\" data-v-5cb2a24e>Financeiro</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/gestao-de-inadimplencia/\" data-v-5cb2a24e>Gestão de Inadimplência</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/fiscal/\" data-v-5cb2a24e>Fiscal</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/integrador/\" data-v-5cb2a24e>Integrador</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e><a href=\"/modulos/portal-de-cliente/\" data-v-5cb2a24e>Portal de cliente</a></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Correções de bugs</td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Novas atualizações</td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Sistema personalizado</td> <td class=\"none\" data-v-5cb2a24e><i class=\"fa fas fa-times\" data-v-5cb2a24e></i></td> <td class=\"none\" data-v-5cb2a24e><i class=\"fa fas fa-times\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Treinamento</td> <td data-v-5cb2a24e>1 /mês</td> <td data-v-5cb2a24e>2 /mês</td> <td data-v-5cb2a24e>consulte</td></tr> <tr data-v-5cb2a24e><td class=\"desc\" data-v-5cb2a24e>Suporte</td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td> <td class=\"check\" data-v-5cb2a24e><i class=\"fa fas fa-check\" data-v-5cb2a24e></i></td></tr></tbody> <tfoot data-v-5cb2a24e><tr data-v-5cb2a24e><td data-v-5cb2a24e></td> <td data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></td> <td data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></td> <td data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></td></tr></tfoot></table> <div class=\"row row-cols-lg-3 row-cols-md-2 row-cols-1 max-mb-n30 d-md-none\" data-v-5cb2a24e><div class=\"col max-mb-30\" data-v-5cb2a24e><div class=\"pricing\" data-v-5cb2a24e><div class=\"pricing-header\" data-v-5cb2a24e><div class=\"price\" data-v-5cb2a24e><span class=\"amount\" data-v-5cb2a24e>$500</span></div> <h6 class=\"title\" data-v-5cb2a24e>Silver Membership</h6> <div class=\"desc\" data-v-5cb2a24e>You can view few of courses</div></div> <div class=\"pricing-body\" data-v-5cb2a24e><ul data-v-5cb2a24e><li data-v-5cb2a24e>Number of courses: 3</li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Introduction to Javascript for Beginners</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Open Programming Courses for Everyone: Python</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Master jQuery in a Short Period of Time</a></li></ul></div> <div class=\"pricing-footer\" data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></div></div></div> <div class=\"col max-mb-30\" data-v-5cb2a24e><div class=\"pricing\" data-v-5cb2a24e><div class=\"pricing-header\" data-v-5cb2a24e><div class=\"price\" data-v-5cb2a24e><span class=\"amount\" data-v-5cb2a24e>$1,000</span></div> <h6 class=\"title\" data-v-5cb2a24e>Gold Membership</h6> <div class=\"desc\" data-v-5cb2a24e>You can view most of courses</div></div> <div class=\"pricing-body\" data-v-5cb2a24e><ul data-v-5cb2a24e><li data-v-5cb2a24e>Number of courses: 6</li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Introduction to Javascript for Beginners</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Open Programming Courses for Everyone: Python</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Master jQuery in a Short Period of Time</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Problem-solving Skills for Better Success</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Database &amp; SQL for Computer Science</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Academic Listening and Note-taking</a></li></ul></div> <div class=\"pricing-footer\" data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></div></div></div> <div class=\"col max-mb-30\" data-v-5cb2a24e><div class=\"pricing\" data-v-5cb2a24e><div class=\"pricing-header\" data-v-5cb2a24e><div class=\"price\" data-v-5cb2a24e><span class=\"amount\" data-v-5cb2a24e>$1,500</span></div> <h6 class=\"title\" data-v-5cb2a24e>Diamond Membership</h6> <div class=\"desc\" data-v-5cb2a24e>You can view all of courses</div></div> <div class=\"pricing-body\" data-v-5cb2a24e><ul data-v-5cb2a24e><li data-v-5cb2a24e>Number of courses: 21</li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Introduction to Javascript for Beginners</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Open Programming Courses for Everyone: Python</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Master jQuery in a Short Period of Time</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Problem-solving Skills for Better Success</a></li> <li data-v-5cb2a24e><a href=\"#\" data-v-5cb2a24e>Database &amp; SQL for Computer Science</a></li></ul></div> <div class=\"pricing-footer\" data-v-5cb2a24e><a href=\"/fale-conosco/\" class=\"btn btn-outline-secondary\" data-v-5cb2a24e>Fale conosco</a></div></div></div></div></div> <div class=\"sub100-demo d-none d-md-block\" data-v-5cb2a24e><svg xmlns=\"http://www.w3.org/2000/svg\" xml:space=\"preserve\" width=\"2500px\" height=\"282px\" version=\"1.1\" viewBox=\"0 0 25000 2814.1\" style=\"shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd\" data-v-5cb2a24e><g id=\"curvaBackgroundBottom\" data-v-5cb2a24e><rect y=\"189.1\" width=\"25000\" height=\"2625\" class=\"fil0\" data-v-5cb2a24e></rect> <path d=\"M0 0l25000 0 0 785.3c-1706,-198.3 -5122.9,-299.9 -10454.2,822.1 -3662.1,770.7 -7974.2,250.5 -7974.2,250.5 0,0 -2877.2,-134 -4960.7,-541.9 -601.7,-117.8 -1135.4,-209.2 -1610.9,-278.8l0 -1037.2z\" class=\"fil1\" data-v-5cb2a24e></path> <path d=\"M25000 623c-1706,-190.6 -5122.9,-280.8 -10454.2,841.2 -3012.5,634 -6464.3,500.2 -7594.3,432.7 1130,105 4581.8,344.5 7594.3,-289.5 5331.3,-1122 8748.2,-1020.4 10454.2,-822.1l0 -162.3z\" class=\"fil2\" data-v-5cb2a24e></path></g></svg></div>")]);};var staticRenderFns=[];
+// CONCATENATED MODULE: ./components/sub100/contents/AboutSetup_BK.vue?vue&type=template&id=5cb2a24e&scoped=true
+
+// EXTERNAL MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
+var componentNormalizer = __webpack_require__(1);
+
+// CONCATENATED MODULE: ./components/sub100/contents/AboutSetup_BK.vue
+
+var script = {}
+function injectStyles (context) {
+  
+  var style0 = __webpack_require__(208)
+if (style0.__inject__) style0.__inject__(context)
+
+}
+
+/* normalize component */
+
+var component = Object(componentNormalizer["a" /* default */])(
+  script,
+  render,
+  staticRenderFns,
+  false,
+  injectStyles,
+  "5cb2a24e",
+  "2ba40580"
+  
+)
+
+/* harmony default export */ var AboutSetup_BK = __webpack_exports__["default"] = (component.exports);
+
+/***/ })
+
+};;
+//# sourceMappingURL=sub100-contents-about-setup-b-k.js.map

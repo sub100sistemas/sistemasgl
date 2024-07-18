@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/modulos/fiscal", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/modulos/administrativo", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

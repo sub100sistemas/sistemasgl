@@ -1,0 +1,233 @@
+[
+  {
+    "name": "fale-conosco",
+    "path": "/fale-conosco/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\fale-conosco.vue",
+    "chunkName": "pages/fale-conosco",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/fale-conosco/",
+    "_name": "_634cb06c"
+  },
+  {
+    "name": "loteamentos",
+    "path": "/loteamentos/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\loteamentos.vue",
+    "chunkName": "pages/loteamentos",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/loteamentos/",
+    "_name": "_d3739724"
+  },
+  {
+    "name": "planos",
+    "path": "/planos/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\planos.vue",
+    "chunkName": "pages/planos",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/planos/",
+    "_name": "_599546de"
+  },
+  {
+    "name": "quero-uma-demonstracao",
+    "path": "/quero-uma-demonstracao/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\quero-uma-demonstracao.vue",
+    "chunkName": "pages/quero-uma-demonstracao",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/quero-uma-demonstracao/",
+    "_name": "_59b7680c"
+  },
+  {
+    "name": "sobre-o-setup",
+    "path": "/sobre-o-setup/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\sobre-o-setup.vue",
+    "chunkName": "pages/sobre-o-setup",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/sobre-o-setup/",
+    "_name": "_1b7b470a"
+  },
+  {
+    "name": "conteudo-base-de-conhecimento",
+    "path": "/conteudo/base-de-conhecimento/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\base-de-conhecimento.vue",
+    "chunkName": "pages/conteudo/base-de-conhecimento",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/base-de-conhecimento/",
+    "_name": "_4fa2ef4c"
+  },
+  {
+    "name": "conteudo-eventos-online",
+    "path": "/conteudo/eventos-online/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\eventos-online.vue",
+    "chunkName": "pages/conteudo/eventos-online",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/eventos-online/",
+    "_name": "_1ee6f0c0"
+  },
+  {
+    "name": "conteudo-eventos",
+    "path": "/conteudo/eventos/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\eventos.vue",
+    "chunkName": "pages/conteudo/eventos",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/eventos/",
+    "_name": "_9f200ba0"
+  },
+  {
+    "name": "conteudo-fique-por-dentro",
+    "path": "/conteudo/fique-por-dentro/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\fique-por-dentro.vue",
+    "chunkName": "pages/conteudo/fique-por-dentro",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/fique-por-dentro/",
+    "_name": "_3b1fe60b"
+  },
+  {
+    "name": "conteudo-politica-de-privacidade",
+    "path": "/conteudo/politica-de-privacidade/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\politica-de-privacidade.vue",
+    "chunkName": "pages/conteudo/politica-de-privacidade",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/politica-de-privacidade/",
+    "_name": "_7ed3335a"
+  },
+  {
+    "name": "conteudo-termos-de-uso",
+    "path": "/conteudo/termos-de-uso/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\conteudo\\\\termos-de-uso.vue",
+    "chunkName": "pages/conteudo/termos-de-uso",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/conteudo/termos-de-uso/",
+    "_name": "_403a5bd8"
+  },
+  {
+    "name": "modulos-administrativo",
+    "path": "/modulos/administrativo/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\administrativo.vue",
+    "chunkName": "pages/modulos/administrativo",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/administrativo/",
+    "_name": "_065eecb4"
+  },
+  {
+    "name": "modulos-controle-de-atendimentos",
+    "path": "/modulos/controle-de-atendimentos/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\controle-de-atendimentos.vue",
+    "chunkName": "pages/modulos/controle-de-atendimentos",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/controle-de-atendimentos/",
+    "_name": "_e82afa74"
+  },
+  {
+    "name": "modulos-financeiro",
+    "path": "/modulos/financeiro/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\financeiro.vue",
+    "chunkName": "pages/modulos/financeiro",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/financeiro/",
+    "_name": "_1b17d5c8"
+  },
+  {
+    "name": "modulos-fiscal",
+    "path": "/modulos/fiscal/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\fiscal.vue",
+    "chunkName": "pages/modulos/fiscal",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/fiscal/",
+    "_name": "_7d5b963a"
+  },
+  {
+    "name": "modulos-gestao-de-inadimplencia",
+    "path": "/modulos/gestao-de-inadimplencia/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\gestao-de-inadimplencia.vue",
+    "chunkName": "pages/modulos/gestao-de-inadimplencia",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/gestao-de-inadimplencia/",
+    "_name": "_82e5d25c"
+  },
+  {
+    "name": "modulos-integrador",
+    "path": "/modulos/integrador/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\integrador.vue",
+    "chunkName": "pages/modulos/integrador",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/integrador/",
+    "_name": "_40054883"
+  },
+  {
+    "name": "modulos-mapa-interativo",
+    "path": "/modulos/mapa-interativo/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\mapa-interativo.vue",
+    "chunkName": "pages/modulos/mapa-interativo",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/mapa-interativo/",
+    "_name": "_067f756f"
+  },
+  {
+    "name": "modulos-portal-de-cliente",
+    "path": "/modulos/portal-de-cliente/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\portal-de-cliente.vue",
+    "chunkName": "pages/modulos/portal-de-cliente",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/portal-de-cliente/",
+    "_name": "_500ee063"
+  },
+  {
+    "name": "modulos-simulador-de-vendas",
+    "path": "/modulos/simulador-de-vendas/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\modulos\\\\simulador-de-vendas.vue",
+    "chunkName": "pages/modulos/simulador-de-vendas",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/modulos/simulador-de-vendas/",
+    "_name": "_69fabefe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Trabalho\\\\Git\\\\sistemasgl\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    },
+    "url": "/",
+    "_name": "_33766f51"
+  }
+]
