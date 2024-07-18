@@ -3,6 +3,7 @@ import { analyticsMiddleware } from 'vue-analytics'
 const webpack = require('webpack')
 
 export default {
+    buildDir: 'dist',
 
     target: 'static',
     ssr: true,

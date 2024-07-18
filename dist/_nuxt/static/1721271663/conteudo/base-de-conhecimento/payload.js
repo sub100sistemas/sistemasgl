@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/conteudo/base-de-conhecimento", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

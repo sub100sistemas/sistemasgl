@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/conteudo/termos-de-uso", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

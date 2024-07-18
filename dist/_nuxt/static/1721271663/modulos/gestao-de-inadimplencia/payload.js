@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/modulos/gestao-de-inadimplencia", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});

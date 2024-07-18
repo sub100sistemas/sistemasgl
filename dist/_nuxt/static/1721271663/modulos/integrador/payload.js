@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/modulos/integrador", {data:[{_criticalFontStyles:{},_img:{}}],fetch:{},mutations:void 0});
